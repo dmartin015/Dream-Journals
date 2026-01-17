@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Oneiros: Surrealist Dream Journal",
+  "description": "A multi-modal dream journal that transcribes your voice, generates surrealist AI imagery of your subconscious, and provides deep psychological analysis of your dreams.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
